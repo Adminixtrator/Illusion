@@ -4,6 +4,8 @@ This is a variant of Gianni Sarcone's (@gsarcone) illusion, which is itself a va
 
 See [tweet](https://twitter.com/Chris_Said/status/1213217943414136833) for more details. 
 
+![Illusion](animation.gif)
+
 The notebook is somewhat cleaned up. The `make_animation` function will create some .png files that you can stitch together into an animated gif with ImageMagick.
 
 ```
