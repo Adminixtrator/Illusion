@@ -1,4 +1,4 @@
-# Illusion
+# Animated sinusoidal Müller-Lyer illusion
 
 This is a variant of Gianni Sarcone's (@gsarcone) illusion, which is itself a variant of the original Müller-Lyer illusion
 
